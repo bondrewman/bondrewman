@@ -1,6 +1,6 @@
 ### Hello World!
 
-I'm a student taking an __Open Source Sofrware__ class.
+I'm a student taking an _Open Source Sofrware_ class.
 
 My main IDE is an [**Atom**](https://atom.io) which provides lots of plug-ins.
 
